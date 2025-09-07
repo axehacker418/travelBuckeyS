@@ -26,7 +26,7 @@ app.use(fileUpload({
 //route the urls from frontend
 app.use(
     cors({
-        origin:"http://localhost:5173",//your frontend domain
+        origin:"https://travelbuckey.netlify.app",//your frontend domain
         credentials: true,//allow creadentials (cookie)
     })
 )
