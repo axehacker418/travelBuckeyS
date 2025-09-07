@@ -1,0 +1,9 @@
+npm i express
+npm install mongoose bcrypt jsonwebtoken
+npm install cookie-parser
+npm i express-fileupload
+npm i cloudinary
+npm i cors 
+npm i jsonwebtoken
+npm install openai
+npm install node-fetch
